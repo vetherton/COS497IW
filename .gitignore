@@ -1,12 +1,10 @@
 Player*
-rounds_before_course_elim.csv
-dg_course_table.csv
-pga_rounds_2024.csv
 PCA_output.csv
 player_ids.csv
-cleaned_course_data.csv
 *.html
 *.pdf
+*.csv
 Course_EDA.ipynb
 Clustering.ipynb
 PCA.ipynb
+Clustering_Courses.ipynb
